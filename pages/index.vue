@@ -1,10 +1,10 @@
 <template>
-  <div></div>
+  <div>
+    <Seo title="Home" />
+  </div>
 </template>
 
 <script setup>
-const route = useRoute();
-console.log(route);
 </script>
 
 <style lang="scss" scoped>

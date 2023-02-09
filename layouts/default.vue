@@ -26,4 +26,11 @@
 <script setup>
 import { ref } from "vue";
 const drawer = ref(null);
+
+const route = useRoute();
+console.log(route);
+
+useHead({
+  title: route.name,
+});
 </script>
