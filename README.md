@@ -1,21 +1,9 @@
-# How to use Vuetify with Nuxt 3
-
-Tutorial - https://codybontecou.com/how-to-use-vuetify-with-nuxt-3.html
-
 ## Setup
 
 Make sure to install the dependencies:
 
-```bash
-# yarn
-yarn install
-
 # npm
 npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
 
 ## Development Server
 
